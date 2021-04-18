@@ -1,0 +1,6 @@
+/Users/ziyad/Projects/XMLBuilder/XMLBuilder/bin/Debug/XMLBuilder.exe
+/Users/ziyad/Projects/XMLBuilder/XMLBuilder/bin/Debug/XMLBuilder.pdb
+/Users/ziyad/Projects/XMLBuilder/XMLBuilder/obj/Debug/XMLBuilder.csprojAssemblyReference.cache
+/Users/ziyad/Projects/XMLBuilder/XMLBuilder/obj/Debug/XMLBuilder.csproj.CoreCompileInputs.cache
+/Users/ziyad/Projects/XMLBuilder/XMLBuilder/obj/Debug/XMLBuilder.exe
+/Users/ziyad/Projects/XMLBuilder/XMLBuilder/obj/Debug/XMLBuilder.pdb
